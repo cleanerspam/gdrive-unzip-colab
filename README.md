@@ -19,7 +19,7 @@
 
 Open the notebook directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cleanerspam/gdrive-unzip-colab/raw/refs/heads/main/gdrive_unzip_colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cleanerspam/gdrive-unzip-colab/blob/main/gdrive_unzip_colab.ipynb)
 
 > Change `USERNAME` with your GitHub username after forking this repo.
 
